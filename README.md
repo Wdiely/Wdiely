@@ -1,10 +1,7 @@
 # ⭐ Olá, eu sou a Wdiely!
 
 🎓 Estudante de Ciência da Computação no **IF Sudeste MG**  
-📍 Rio Pomba, Minas Gerais - Brasil  
-
-💻 Atualmente estou aprendendo programação e explorando o mundo da programação.  
-🚀 Em busca de evoluir minhas habilidades e construir projetos cada vez melhores.
+📍 Rio Pomba, Minas Gerais - Brasil 
 
 ##  Sobre mim 
 - Interessada em lógica de programação e resolução de problemas
