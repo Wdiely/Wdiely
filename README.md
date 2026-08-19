@@ -1,11 +1,7 @@
 # ⭐ Olá, eu sou a Wdiely!
 
-🎓 Estudante de Ciência da Computação no **IF Sudeste MG**  
-📍 Rio Pomba, Minas Gerais - Brasil 
-
-##  Sobre mim 
-- Interessada em lógica de programação e resolução de problemas
--  Tenho interesse em desenvolvimento **frontend** e criação de interfaces
+Estudante de Ciência da Computação no **IF Sudeste MG**  
+Rio Pomba, Minas Gerais - Brasil 
 
 ##  Tecnologias em aprendizado
  <img alt="C++" title="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
